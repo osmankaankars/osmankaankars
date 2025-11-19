@@ -17,17 +17,30 @@
 
 ---
 
-### 🧩 About Me
+## 🧩 About Me  
+Cybersecurity Engineer specializing in **SAP Security**, **SIEM content development**, and **AI-driven detection engineering**.  
+I build solutions that connect **SAP enterprise architectures**, **SOC workflows**, and **machine learning** to enhance threat visibility and automate security operations.
 
-Bridging the gap between **SAP architectures** and **modern SOC operations** using **Python & AI**.
-
-- 🛰️ Focus: SAP Security, SIEM use-case development, log correlation & detection engineering  
-- 🤖 Interest: Applying ML to security telemetry for threat detection & anomaly hunting  
-- 📚 Enjoy: Turning complex SAP & SIEM data into actionable detections and playbooks  
+- Reduced SAP audit timelines by **85%** using Python automation  
+- Architected 200+ Python-based SAP security assessment use cases  
+- Developed ML pipelines to detect malicious SAP activities & file uploads  
+- Integrated **Llama 3 LLM + Wazuh** for natural-language threat hunting  
+- Research focus in **Zero Trust, PAM, adaptive authentication**  
 
 ---
 
-### 🚀 Tech Stack
+## 🧠 What I Like Working On  
+- 🧪 **Python-based security assessment frameworks** for SAP S/4HANA  
+- 🛡️ **SIEM detection engineering** (IBM QRadar AQL, Wazuh decoders, rules, correlation logic)  
+- 🤖 **Machine learning models** for SAP anomaly detection (Random Forest, Isolation Forest)  
+- 🛰️ **LLM-assisted Threat Hunting** (local Llama 3 + Wazuh XDR)  
+- 🧩 **Mapping security content to NIS2, ISO 27001, MITRE ATT&CK**  
+- ⚙️ **PAM–SIEM integration workflows** to reduce false positives & speed up IR  
+- 📊 Security dashboards for **real-time SAP threat & compliance visibility**  
+
+---
+
+## 🚀 Tech Stack
 
 **Languages & Data**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,21 +53,21 @@ Bridging the gap between **SAP architectures** and **modern SOC operations** usi
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
-**DevOps & Tooling**  
+**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 🧪 What I Like Working On
-
-- 🔍 Designing SIEM use-cases for SAP logs (access control, config drift, SoD violations)  
-- 🧠 Using Python & ML to triage noisy alerts and enrich SOC investigations  
-- 📊 Building dashboards for blue teams to see “security posture at a glance”  
+## ⚓ Interests  
+- 🌊 **Licensed Near Coastal Captain** — maritime navigation discipline applied to cybersecurity  
+- 🏎️ **Formula 1 telemetry analytics** (strategy models, real-time systems)  
+- 🏊 **Swimming** & endurance training  
+- 📚 Research: **Zero Trust, PAM frameworks, adaptive authentication models**  
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img 
@@ -79,7 +92,7 @@ Bridging the gap between **SAP architectures** and **modern SOC operations** usi
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-kaan-kars/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3490-8412)
