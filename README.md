@@ -1,103 +1,86 @@
-<!-- 🔹 Banner -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=120&section=header&text=Osman%20Kaan%20Kars&fontSize=32&fontColor=ffffff&desc=Cybersecurity%20Engineer%20%7C%20SAP%20Security%20%7C%20AI-Driven%20Defense&descAlignY=75" 
-    alt="Osman Kaan Kars - Cybersecurity Engineer"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Osman%20Kaan%20Kars&fontSize=32&fontColor=ffffff&desc=R%26D%20Lead%20%7C%20Senior%20Cybersecurity%20Engineer%20%7C%20SAP%20%26%20AI%20Defense&descAlignY=75" 
+    alt="Osman Kaan Kars - R&D Lead & Senior Cybersecurity Engineer"
 />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osmankaankars&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/osmankaankars?label=Followers&style=flat-square" alt="followers" />
+  <a href="https://linkedin.com/in/osman-kaan-kars"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://orcid.org/0009-0003-3490-8412"><img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=osmankaankars&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
 
-<h3 align="center">🛡️ Cybersecurity Engineer | SAP Security Specialist | AI-Driven Defense Architect</h3>
+### 🚀 Professional Summary
+
+I am an innovative **R&D Lead** and **Senior Cybersecurity Engineer** bridging the gap between complex **ERP architectures (SAP, Oracle)** and modern **SOC operations**. 
+
+My core focus is **Security Automation** and **AI Integration**, where I successfully **reduced SAP audit timelines by 85%** through custom Python architectures. As a **Certified IBM AI Developer**, I build next-gen defense tools that utilize LLMs for threat hunting and automated code analysis.
 
 ---
 
-## 🧩 About Me  
-Cybersecurity Engineer specializing in **SAP Security**, **SIEM content development**, and **AI-driven detection engineering**.  
-I build solutions that connect **SAP enterprise architectures**, **SOC workflows**, and **machine learning** to enhance threat visibility and automate security operations.
+## 🛠️ Featured Open Source Projects
 
-- Reduced SAP audit timelines by **85%** using Python automation  
-- Architected 200+ Python-based SAP security assessment use cases  
-- Developed ML pipelines to detect malicious SAP activities & file uploads  
-- Integrated **Llama 3 LLM + Wazuh** for natural-language threat hunting  
-- Research focus in **Zero Trust, PAM, adaptive authentication**  
+Here are the active security tools I am architecting:
 
----
-
-## 🧠 What I Like Working On  
-- 🧪 **Python-based security assessment frameworks** for SAP S/4HANA  
-- 🛡️ **SIEM detection engineering** (IBM QRadar AQL, Wazuh decoders, rules, correlation logic)  
-- 🤖 **Machine learning models** for SAP anomaly detection (Random Forest, Isolation Forest)  
-- 🛰️ **LLM-assisted Threat Hunting** (local Llama 3 + Wazuh XDR)  
-- 🧩 **Mapping security content to NIS2, ISO 27001, MITRE ATT&CK**  
-- ⚙️ **PAM–SIEM integration workflows** to reduce false positives & speed up IR  
-- 📊 Security dashboards for **real-time SAP threat & compliance visibility**  
+| **Project** | **Description** | **Tech Stack** |
+|:--- |:--- |:--- |
+| [**👻 Ghost Recon**](https://github.com/osmankaankars/GhostRecon) | **Enterprise OSINT Framework.** Automates attack surface discovery with interactive network topology mapping, WAF-bypassing stealth modes, and visual intelligence. | `Python` `Asyncio` `Playwright` `Vis.js` |
+| [**🛡️ Sentinel-AI**](https://github.com/osmankaankars/Sentinel-AI) | **Next-Gen SAST Tool.** Bridges static analysis with GenAI to analyze Abstract Syntax Trees (AST) and suggest automated code fixes. | `Python` `AST` `LLM Integration` `GenAI` |
+| [**🕵️‍♂️ SecretScout**](https://github.com/osmankaankars/SecretScout) | **Local Vulnerability Scanner.** A lightweight engine to detect hardcoded secrets and configuration flaws in local directories (Prototype for Sentinel-AI). | `Python` `Regex` `Security Auditing` |
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Technical Arsenal
 
-**Languages & Data**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+**Languages & Core** ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-Concurrency-red?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Data_Science-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**SAP & Security / SIEM**  
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+**Cybersecurity & ERP** ![SAP Security](https://img.shields.io/badge/SAP_Security-S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![IBM QRadar](https://img.shields.io/badge/SIEM-IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Wazuh](https://img.shields.io/badge/XDR-Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Analytics-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**AI & GenAI** ![GenAI](https://img.shields.io/badge/GenAI-Llama_3-purple?style=for-the-badge)
+![IBM watsonx](https://img.shields.io/badge/IBM-watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**DevSecOps** ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## ⚓ Interests  
-- 🌊 **Licensed Near Coastal Captain** — maritime navigation discipline applied to cybersecurity  
-- 🏎️ **Formula 1 telemetry analytics** (strategy models, real-time systems)  
-- 🏊 **Swimming** & endurance training  
-- 📚 Research: **Zero Trust, PAM frameworks, adaptive authentication models**  
+## 📜 Certifications & Publications
+
+**Certifications**
+- 🎓 **IBM AI Developer Professional Certificate** (Jan 2026)
+- 🎓 **SAP Technology Consultant** (2024)
+- 🎓 **Google Cybersecurity Professional** (2024)
+- 🎓 **IBM Cybersecurity Analyst** (2024)
+
+**Selected Publications**
+- 📄 *Comparative Analysis of a Continuous Adaptive Authentication Framework* (Conf. Paper, July 2025)
+- 📘 *Advanced MFA Approaches in PAM Products* (Book Chapter, June 2025)
+- 📄 *The Role of SIEM and PAM Integration* (Conf. Paper, March 2025)
+
+---
+
+## ⚓ Personal Interests
+- **🌊 Licensed Near Coastal Captain:** Applying maritime navigation discipline to cybersecurity strategy.
+- **🏎️ F1 Telemetry Analytics:** Analyzing real-time strategy models and systems.
+- **🏊 Endurance Swimming:** Focus and resilience training.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=osmankaankars&show_icons=true&theme=transparent&hide_border=true" 
-    alt="GitHub stats"
-/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=osmankaankars&theme=transparent&hide_border=true" 
-    alt="GitHub streak"
-/>
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmankaankars&layout=compact&hide_border=true&theme=transparent&hide=html" 
-    alt="Top languages"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=osmankaankars&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmankaankars&layout=compact&hide_border=true&theme=transparent&hide=html" alt="Top languages" />
 </p>
 
 ---
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osman-kaan-kars/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3490-8412)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osmankaankars)
-
----
-
-⭐️ **Thanks for visiting my profile – feel free to explore the repos and reach out on LinkedIn.**
+<p align="center">⭐️ <b>Thanks for visiting! Feel free to explore my repositories or connect via LinkedIn.</b></p>
