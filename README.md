@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0f172a,100:1e293b&amp;height=140&amp;section=header&amp;text=Osman%20Kaan%20Kars&amp;fontSize=32&amp;fontColor=ffffff&amp;desc=R%26D%20Lead%20%7C%20Senior%20Cybersecurity%20Engineer%20%7C%20SAP%20%26%20AI%20Defense&amp;descAlignY=75" 
-    alt="Osman Kaan Kars - R&D Lead & Senior Cybersecurity Engineer"
+    alt="Osman Kaan Kars - R&amp;D Lead &amp; Senior Cybersecurity Engineer"
 />
 </p>
 
