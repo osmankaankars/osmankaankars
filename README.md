@@ -80,9 +80,6 @@ Here are the active security tools I am architecting:
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="assets/streak.svg" alt="GitHub streak" />
-<br />
 <img src="assets/metrics.svg" alt="GitHub metrics" />
 
 </div>
