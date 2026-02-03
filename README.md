@@ -1,8 +1,8 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Osman%20Kaan%20Kars&fontSize=32&fontColor=ffffff&desc=R%26D%20Lead%20%7C%20Senior%20Cybersecurity%20Engineer%20%7C%20SAP%20%26%20AI%20Defense&descAlignY=75"
-    alt="Osman Kaan Kars - R&D Lead & Senior Cybersecurity Engineer"
-  />
+  <picture>
+    <source srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Osman%20Kaan%20Kars&fontSize=32&fontColor=ffffff&desc=R%26D%20Lead%20%7C%20Senior%20Cybersecurity%20Engineer%20%7C%20SAP%20%26%20AI%20Defense&descAlignY=75" />
+    <img src="assets/banner.svg" alt="Osman Kaan Kars - R&D Lead & Senior Cybersecurity Engineer" />
+  </picture>
 </p>
 
 <div align="center">
@@ -82,8 +82,7 @@ Here are the active security tools I am architecting:
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=osmankaankars&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=21600)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osmankaankars&layout=compact&hide_border=true&theme=transparent&hide=html&cache_seconds=21600)
+<img src="assets/metrics.svg" alt="GitHub metrics" />
 
 </div>
 
