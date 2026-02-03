@@ -1,4 +1,10 @@
 <p align="center">
+  <img src="https://github.com/osmankaankars.png?size=160" alt="Osman Kaan Kars" width="160" height="160" />
+</p>
+<h1 align="center">Osman Kaan Kars</h1>
+<p align="center">R&D Lead | Senior Cybersecurity Engineer | SAP & AI Defense</p>
+
+<p align="center">
   <img src="assets/banner.svg" alt="Osman Kaan Kars - R&D Lead & Senior Cybersecurity Engineer" />
 </p>
 
