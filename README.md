@@ -4,10 +4,6 @@
 <h1 align="center">Osman Kaan Kars</h1>
 <p align="center">R&D Lead | Senior Cybersecurity Engineer | SAP & AI Defense</p>
 
-<p align="center">
-  <img src="assets/banner.svg" alt="Osman Kaan Kars - R&D Lead & Senior Cybersecurity Engineer" />
-</p>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-kaan-kars)
