@@ -82,6 +82,8 @@ Here are the active security tools I am architecting:
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=osmankaankars&theme=dark&hide_border=true&background=45,0f172a,1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=94a3b8&stroke=1e293b&border_radius=12" alt="GitHub streak" />
+<br />
 <img src="assets/metrics.svg" alt="GitHub metrics" />
 
 </div>
