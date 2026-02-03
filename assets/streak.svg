@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="GitHub streak placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" fill="url(#bg)" rx="16" />
+  <text x="500" y="110" text-anchor="middle" font-size="22" fill="#ffffff" font-family="Verdana, Arial, sans-serif">
+    Streak will appear after the workflow runs.
+  </text>
+</svg>
