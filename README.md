@@ -1,90 +1,44 @@
-<p align="center">
-  <img src="https://github.com/osmankaankars.png?size=160" alt="Osman Kaan Kars" width="160" height="160" />
-</p>
-<h1 align="center">Osman Kaan Kars</h1>
-<p align="center">R&D Lead | Senior Cybersecurity Engineer | SAP & AI Defense</p>
+# Osman Kaan Kars
 
-<div align="center">
+**Senior Cybersecurity Engineer at [SchutzOn](https://schutzon.com)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osman-kaan-kars)
-[![ORCID](https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3490-8412)
-![Profile views](https://komarev.com/ghpvc/?username=osmankaankars&style=for-the-badge&color=blueviolet)
+ERP security · Security automation · AI-assisted application security
 
-</div>
+[SchutzOn](https://schutzon.com) · [LinkedIn](https://www.linkedin.com/in/osman-kaan-kars/) · [ORCID](https://orcid.org/0009-0003-3490-8412) · [Credentials](https://www.credly.com/users/osman-kaan-kars/)
 
----
+I work at the intersection of ERP security, SOC operations, and secure software delivery. My focus is turning security and audit requirements into practical Python tooling, repeatable controls, and useful evidence.
 
-### 🚀 Professional Summary
+- Senior Cybersecurity Engineer at **SchutzOn**, focused on multi-ERP security and compliance automation
+- Built Python-based audit automation that reduced review time by **85% within its measured project scope**
+- Research interests: privileged access management, adaptive authentication, SIEM/PAM integration, and AI-assisted AppSec
+- Open to research and open-source collaboration in ERP security, DevSecOps, and privacy tooling
 
-I am an innovative **R&D Lead** and **Senior Cybersecurity Engineer** bridging the gap between complex **ERP architectures (SAP, Oracle)** and modern **SOC operations**.
+## Selected open-source work
 
-My core focus is **Security Automation** and **AI Integration**, where I successfully **reduced SAP audit timelines by 85%** through custom Python architectures. As a **Certified IBM AI Developer**, I build next-gen defense tools that utilize LLMs for threat hunting and automated code analysis.
+| Project | What it demonstrates | Evidence |
+| --- | --- | --- |
+| [Simple Vulnerability Scanner](https://github.com/osmankaankars/simple-vulnerability-scanner) | Scans CycloneDX and SPDX SBOMs against OSV and exports JSON, HTML, and SARIF reports. | [v0.1.2](https://github.com/osmankaankars/simple-vulnerability-scanner/releases/tag/v0.1.2) · [CI](https://github.com/osmankaankars/simple-vulnerability-scanner/actions/workflows/svs-scan.yml) · [Demo](https://osmankaankars.github.io/simple-vulnerability-scanner/) · MIT |
+| [Metadata Scrubber](https://github.com/osmankaankars/metadata-scrubber-tool) | Local-first CLI for removing and verifying metadata in images, PDFs, Office files, audio, and video. | [v0.2.0](https://github.com/osmankaankars/metadata-scrubber-tool/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/metadata-scrubber-tool/actions/workflows/ci.yml) · Tests · MIT |
+| [DNS Lookup Tool](https://github.com/osmankaankars/dns-lookup-tool) | Raw UDP/TCP DNS queries with trace mode, EDNS support, and structured JSON output. | [v0.3.5](https://github.com/osmankaankars/dns-lookup-tool/releases/tag/v0.3.5) · Tests · Python |
 
----
+Additional security prototypes and research projects are available in my [repositories](https://github.com/osmankaankars?tab=repositories). Prototype repositories are labelled with their current status and limitations.
 
-## 🛠️ Featured Open Source Projects
+## Focus areas
 
-Here are the active security tools I am architecting:
+- **ERP security:** SAP and Oracle security monitoring, access controls, audit evidence, and compliance automation
+- **Security engineering:** Python, secure automation, vulnerability analysis, privacy tooling, and defensive controls
+- **SOC and DevSecOps:** SIEM integration, threat detection, SBOM workflows, SAST, and security reporting
+- **Applied AI:** LLM-assisted analysis with human review, explicit limitations, and secure-by-default integrations
 
-| **Project** | **Description** | **Tech Stack** |
-|:--- |:--- |:--- |
-| [**👻 Ghost Recon**](https://github.com/osmankaankars/GhostRecon) | **Enterprise OSINT Framework.** Automates attack surface discovery with interactive network topology mapping, WAF-bypassing stealth modes, and visual intelligence. | `Python` `Asyncio` `Playwright` `Vis.js` |
-| [**🛡️ Sentinel-AI**](https://github.com/osmankaankars/Sentinel-AI) | **Next-Gen SAST Tool.** Bridges static analysis with GenAI to analyze Abstract Syntax Trees (AST) and suggest automated code fixes. | `Python` `AST` `LLM Integration` `GenAI` |
-| [**🕵️‍♂️ SecretScout**](https://github.com/osmankaankars/SecretScout) | **Local Vulnerability Scanner.** A lightweight engine to detect hardcoded secrets and configuration flaws in local directories (Prototype for Sentinel-AI). | `Python` `Regex` `Security Auditing` |
+## Research and credentials
 
----
+- [Comparative Analysis and Experimental Validation of a Continuous Adaptive Authentication Framework for Privileged Access Management](https://www.ayasofyakongresi.com/_files/ugd/614b1f_f51e5c04a46b4b888fdcdc5dba64d0c1.pdf) — conference paper, 2025
+- [Advanced MFA Approaches in PAM Products](https://doi.org/10.5281/zenodo.15762188) — book chapter, 2025
+- [The Role of SIEM and PAM Integration in Strengthening Cybersecurity](https://www.blackseacountries.org/_files/ugd/614b1f_8d4c8e5c91964d92a1fe6e9731c2fc25.pdf) — conference paper, 2025
+- IBM AI Developer Professional Certificate · SAP Technology Consultant · Google Cybersecurity Professional Certificate · IBM Cybersecurity Analyst — [view credentials](https://www.credly.com/users/osman-kaan-kars/)
 
-## 🧠 Technical Arsenal
+## Beyond work
 
-**Languages & Core** ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Asyncio](https://img.shields.io/badge/Asyncio-Concurrency-red?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Data_Science-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+Licensed near-coastal captain, endurance swimmer, and Formula 1 telemetry enthusiast.
 
-**Cybersecurity & ERP** ![SAP Security](https://img.shields.io/badge/SAP_Security-S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![IBM QRadar](https://img.shields.io/badge/SIEM-IBM_QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Wazuh](https://img.shields.io/badge/XDR-Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-Analytics-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-**AI & GenAI** ![GenAI](https://img.shields.io/badge/GenAI-Llama_3-purple?style=for-the-badge)
-![IBM watsonx](https://img.shields.io/badge/IBM-watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**DevSecOps** ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📜 Certifications & Publications
-
-**Certifications**
-- 🎓 **IBM AI Developer Professional Certificate** (Jan 2026)
-- 🎓 **SAP Technology Consultant** (2024)
-- 🎓 **Google Cybersecurity Professional** (2024)
-- 🎓 **IBM Cybersecurity Analyst** (2024)
-
-**Selected Publications**
-- 📄 *Comparative Analysis of a Continuous Adaptive Authentication Framework* (Conf. Paper, July 2025)
-- 📘 *Advanced MFA Approaches in PAM Products* (Book Chapter, June 2025)
-- 📄 *The Role of SIEM and PAM Integration* (Conf. Paper, March 2025)
-
----
-
-## ⚓ Personal Interests
-
-- **🌊 Licensed Near Coastal Captain:** Applying maritime navigation discipline to cybersecurity strategy.
-- **🏎️ F1 Telemetry Analytics:** Analyzing real-time strategy models and systems.
-- **🏊 Endurance Swimming:** Focus and resilience training.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="assets/metrics.svg" alt="GitHub metrics" />
-
-</div>
-
-
----
-
-<p align="center"><b>Thanks for visiting! Feel free to explore my repositories or connect via LinkedIn.</b></p>
+For professional or research collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/osman-kaan-kars/).
