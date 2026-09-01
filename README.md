@@ -30,6 +30,13 @@ Additional security prototypes and research projects are available in my [reposi
 - **SOC and DevSecOps:** SIEM integration, threat detection, SBOM workflows, SAST, and security reporting
 - **Applied AI:** LLM-assisted analysis with human review, explicit limitations, and secure-by-default integrations
 
+## Open-source roadmap
+
+- **ERP Security Evidence Workbench — Exploring.** An offline, read-only reference project for normalizing synthetic ERP security evidence and producing deterministic, traceable findings.
+- **SVS supply-chain assurance — Exploring.** VEX-aware policy evaluation and provenance checks for SBOM-based vulnerability workflows.
+
+These are independent research directions, not released capabilities or delivery commitments. They will use only synthetic or openly licensed data.
+
 ## Research and credentials
 
 - [Comparative Analysis and Experimental Validation of a Continuous Adaptive Authentication Framework for Privileged Access Management](https://www.ayasofyakongresi.com/_files/ugd/614b1f_f51e5c04a46b4b888fdcdc5dba64d0c1.pdf) — conference abstract, 2025
