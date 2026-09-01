@@ -18,7 +18,7 @@ I work at the intersection of ERP security, SOC operations, and secure software 
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
 | [Simple Vulnerability Scanner](https://github.com/osmankaankars/simple-vulnerability-scanner) | Scans CycloneDX and SPDX SBOMs against OSV and exports JSON, HTML, and SARIF reports. | [v0.1.3](https://github.com/osmankaankars/simple-vulnerability-scanner/releases/tag/v0.1.3) · [CI](https://github.com/osmankaankars/simple-vulnerability-scanner/actions/workflows/ci.yml) · [Demo](https://osmankaankars.github.io/simple-vulnerability-scanner/) · MIT |
-| [Metadata Scrubber](https://github.com/osmankaankars/metadata-scrubber-tool) | Local-first CLI for removing and verifying metadata in images, PDFs, Office files, audio, and video. | [v0.2.0](https://github.com/osmankaankars/metadata-scrubber-tool/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/metadata-scrubber-tool/actions/workflows/ci.yml) · Tests · MIT |
+| [Metadata Scrubber](https://github.com/osmankaankars/metadata-scrubber-tool) | Local-first CLI for removing and verifying metadata in images, PDFs, Office files, video, and optional audio. | [v0.2.0](https://github.com/osmankaankars/metadata-scrubber-tool/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/metadata-scrubber-tool/actions/workflows/ci.yml) · Tests · MIT |
 | [DNS Lookup Tool](https://github.com/osmankaankars/dns-lookup-tool) | Raw UDP/TCP DNS queries with trace mode, EDNS support, and structured JSON output. | [v0.3.5](https://github.com/osmankaankars/dns-lookup-tool/releases/tag/v0.3.5) · [CI](https://github.com/osmankaankars/dns-lookup-tool/actions/workflows/ci.yml) · Tests · MIT |
 
 Additional security prototypes and research projects are available in my [repositories](https://github.com/osmankaankars?tab=repositories). Prototype repositories are labelled with their current status and limitations.
@@ -32,13 +32,14 @@ Additional security prototypes and research projects are available in my [reposi
 
 ## Research and credentials
 
-- [Comparative Analysis and Experimental Validation of a Continuous Adaptive Authentication Framework for Privileged Access Management](https://www.ayasofyakongresi.com/_files/ugd/614b1f_f51e5c04a46b4b888fdcdc5dba64d0c1.pdf) — conference paper, 2025
+- [Comparative Analysis and Experimental Validation of a Continuous Adaptive Authentication Framework for Privileged Access Management](https://www.ayasofyakongresi.com/_files/ugd/614b1f_f51e5c04a46b4b888fdcdc5dba64d0c1.pdf) — conference abstract, 2025
 - [Advanced MFA Approaches in PAM Products](https://doi.org/10.5281/zenodo.15762188) — book chapter, 2025
-- [The Role of SIEM and PAM Integration in Strengthening Cybersecurity](https://www.blackseacountries.org/_files/ugd/614b1f_8d4c8e5c91964d92a1fe6e9731c2fc25.pdf) — conference paper, 2025
-- IBM AI Developer Professional Certificate · SAP Technology Consultant · Google Cybersecurity Professional Certificate · IBM Cybersecurity Analyst — [view credentials](https://www.credly.com/users/osman-kaan-kars/)
+- [The Role of SIEM and PAM Integration in Strengthening Cybersecurity](https://www.blackseacountries.org/_files/ugd/614b1f_8d4c8e5c91964d92a1fe6e9731c2fc25.pdf) — conference abstract, 2025
+- IBM AI Developer Professional Certificate · Google Cybersecurity Professional Certificate · IBM Cybersecurity Analyst Professional Certificate — [view Credly badges](https://www.credly.com/users/osman-kaan-kars/)
+- SAP Certified Technology Associate - SAP System Security
 
 ## Beyond work
 
-Licensed near-coastal captain, endurance swimmer, and Formula 1 telemetry enthusiast.
+Maritime background, endurance swimmer, and Formula 1 telemetry enthusiast.
 
 For professional or research collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/osman-kaan-kars/).
