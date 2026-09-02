@@ -17,7 +17,7 @@ I work at the intersection of ERP security, SOC operations, and secure software 
 
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
-| [Simple Vulnerability Scanner](https://github.com/osmankaankars/simple-vulnerability-scanner) | Scans CycloneDX and SPDX SBOMs against OSV and exports JSON, HTML, and SARIF reports. | [v0.1.3](https://github.com/osmankaankars/simple-vulnerability-scanner/releases/tag/v0.1.3) · [CI](https://github.com/osmankaankars/simple-vulnerability-scanner/actions/workflows/ci.yml) · [Demo](https://osmankaankars.github.io/simple-vulnerability-scanner/) · MIT |
+| [Simple Vulnerability Scanner](https://github.com/osmankaankars/simple-vulnerability-scanner) | Scans CycloneDX and SPDX SBOMs against OSV and exports JSON, HTML, and SARIF reports. | [v0.2.0](https://github.com/osmankaankars/simple-vulnerability-scanner/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/simple-vulnerability-scanner/actions/workflows/ci.yml) · [Demo](https://osmankaankars.github.io/simple-vulnerability-scanner/) · MIT |
 | [Metadata Scrubber](https://github.com/osmankaankars/metadata-scrubber-tool) | Local-first CLI for removing and verifying metadata in images, PDFs, Office files, video, and optional audio. | [v0.2.0](https://github.com/osmankaankars/metadata-scrubber-tool/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/metadata-scrubber-tool/actions/workflows/ci.yml) · Tests · MIT |
 | [DNS Lookup Tool](https://github.com/osmankaankars/dns-lookup-tool) | Raw UDP/TCP DNS queries with trace mode, EDNS support, and structured JSON output. | [v0.3.5](https://github.com/osmankaankars/dns-lookup-tool/releases/tag/v0.3.5) · [CI](https://github.com/osmankaankars/dns-lookup-tool/actions/workflows/ci.yml) · Tests · MIT |
 
