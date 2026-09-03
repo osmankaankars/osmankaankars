@@ -17,7 +17,9 @@ I work at the intersection of ERP security, SOC operations, and secure software 
 
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
-| [Simple Vulnerability Scanner](https://github.com/osmankaankars/simple-vulnerability-scanner) | Scans CycloneDX and SPDX SBOMs against OSV and exports JSON, HTML, and SARIF reports. | [v0.2.0](https://github.com/osmankaankars/simple-vulnerability-scanner/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/simple-vulnerability-scanner/actions/workflows/ci.yml) · [Demo](https://osmankaankars.github.io/simple-vulnerability-scanner/) · MIT |
+| [ERP Security Evidence Workbench](https://github.com/osmankaankars/erp-security-evidence-workbench) | Deterministic analysis and correlation of synthetic, ERP-neutral security evidence with evidence-linked JSON, HTML, and SARIF reports. | [v0.2.0rc1 (pre-release)](https://github.com/osmankaankars/erp-security-evidence-workbench/releases/tag/v0.2.0rc1) · [CI](https://github.com/osmankaankars/erp-security-evidence-workbench/actions/workflows/ci.yml) · [CodeQL](https://github.com/osmankaankars/erp-security-evidence-workbench/actions/workflows/codeql.yml) · MIT |
+| [Simple Vulnerability Scanner](https://github.com/osmankaankars/simple-vulnerability-scanner) | Audit-oriented CycloneDX/SPDX analysis with OSV enrichment, OpenVEX reconciliation, baselines, policy gates, and JSON, HTML, and SARIF reports. | [v0.3.0](https://github.com/osmankaankars/simple-vulnerability-scanner/releases/tag/v0.3.0) · [CI](https://github.com/osmankaankars/simple-vulnerability-scanner/actions/workflows/ci.yml) · [CodeQL](https://github.com/osmankaankars/simple-vulnerability-scanner/actions/workflows/codeql.yml) · [Demo](https://osmankaankars.github.io/simple-vulnerability-scanner/) · MIT |
+| [Zero Trust Gateway](https://github.com/osmankaankars/Zero-Trust-Gateway) | Loopback-only lab demonstrating strict JWT/JWKS validation, key rotation, rate limits, audit events, and tested failure paths. | [v0.2.0](https://github.com/osmankaankars/Zero-Trust-Gateway/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/Zero-Trust-Gateway/actions/workflows/ci.yml) · [CodeQL](https://github.com/osmankaankars/Zero-Trust-Gateway/actions/workflows/codeql.yml) · MIT |
 | [Metadata Scrubber](https://github.com/osmankaankars/metadata-scrubber-tool) | Local-first CLI for removing and verifying metadata in images, PDFs, Office files, video, and optional audio. | [v0.2.0](https://github.com/osmankaankars/metadata-scrubber-tool/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/metadata-scrubber-tool/actions/workflows/ci.yml) · Tests · MIT |
 | [DNS Lookup Tool](https://github.com/osmankaankars/dns-lookup-tool) | Raw UDP/TCP DNS queries with trace mode, EDNS support, and structured JSON output. | [v0.3.5](https://github.com/osmankaankars/dns-lookup-tool/releases/tag/v0.3.5) · [CI](https://github.com/osmankaankars/dns-lookup-tool/actions/workflows/ci.yml) · Tests · MIT |
 
@@ -32,10 +34,10 @@ Additional security prototypes and research projects are available in my [reposi
 
 ## Open-source roadmap
 
-- **ERP Security Evidence Workbench — Exploring.** An offline, read-only reference project for normalizing synthetic ERP security evidence and producing deterministic, traceable findings.
-- **SVS supply-chain assurance — Exploring.** VEX-aware policy evaluation and provenance checks for SBOM-based vulnerability workflows.
+- **Authorized Exposure Assessment Case Study — Planned.** A permission-first, lab-scoped case study correlating DNS, port, Nmap, and TLS evidence into a reproducible external-exposure assessment.
+- **Data Protection Case Study — Planned.** An evidence-linked data-lifecycle case study connecting metadata sanitization, secret discovery, privacy checks, and removable-media monitoring without claiming to be a complete DLP or compliance platform.
 
-These are independent research directions, not released capabilities or delivery commitments. They will use only synthetic or openly licensed data.
+These are independent portfolio research directions, not released capabilities or delivery commitments. Exposure testing will be limited to systems I own or am explicitly authorized to test; datasets will be synthetic or openly licensed.
 
 ## Research and credentials
 
