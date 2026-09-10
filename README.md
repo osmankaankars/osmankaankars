@@ -36,8 +36,8 @@ Additional security prototypes and research projects are available in my [reposi
 
 Independent portfolio studies:
 
-- [Authorized Exposure Assessment Case Study](https://github.com/osmankaankars/authorized-exposure-assessment-case-study) — Published (v0.2.0)
-- [Data Protection Case Study](https://github.com/osmankaankars/data-protection-case-study) — Published (v0.2.0)
+- [Authorized Exposure Assessment Case Study](https://github.com/osmankaankars/authorized-exposure-assessment-case-study) — Published (v0.2.3)
+- [Data Protection Case Study](https://github.com/osmankaankars/data-protection-case-study) — Published (v0.2.3)
 
 Both are lab/research projects with synthetic or explicitly licensed artifacts.
 
