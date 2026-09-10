@@ -34,15 +34,6 @@ Additional security prototypes and research projects are available in my [reposi
 - **SOC and DevSecOps:** SIEM integration, threat detection, SBOM workflows, SAST, and security reporting
 - **Applied AI:** LLM-assisted analysis with human review, explicit limitations, and secure-by-default integrations
 
-## Open-source roadmap
-
-Independent portfolio studies:
-
-- [Authorized Exposure Assessment Case Study](https://github.com/osmankaankars/authorized-exposure-assessment-case-study) — Published (v0.2.4)
-- [Data Protection Case Study](https://github.com/osmankaankars/data-protection-case-study) — Published (v0.2.4)
-
-Both are lab/research projects with synthetic or explicitly licensed artifacts.
-
 ## Research and credentials
 
 - [Comparative Analysis and Experimental Validation of a Continuous Adaptive Authentication Framework for Privileged Access Management](https://www.ayasofyakongresi.com/_files/ugd/614b1f_f51e5c04a46b4b888fdcdc5dba64d0c1.pdf) — conference abstract, 2025
