@@ -22,6 +22,8 @@ I work at the intersection of ERP security, SOC operations, and secure software 
 | [Zero Trust Gateway](https://github.com/osmankaankars/Zero-Trust-Gateway) | Loopback-only lab demonstrating strict JWT/JWKS validation, key rotation, rate limits, audit events, and tested failure paths. | [v0.2.0](https://github.com/osmankaankars/Zero-Trust-Gateway/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/Zero-Trust-Gateway/actions/workflows/ci.yml) · [CodeQL](https://github.com/osmankaankars/Zero-Trust-Gateway/actions/workflows/codeql.yml) · MIT |
 | [Metadata Scrubber](https://github.com/osmankaankars/metadata-scrubber-tool) | Local-first CLI for removing and verifying metadata in images, PDFs, Office files, video, and optional audio. | [v0.2.0](https://github.com/osmankaankars/metadata-scrubber-tool/releases/tag/v0.2.0) · [CI](https://github.com/osmankaankars/metadata-scrubber-tool/actions/workflows/ci.yml) · Tests · MIT |
 | [DNS Lookup Tool](https://github.com/osmankaankars/dns-lookup-tool) | Raw UDP/TCP DNS queries with trace mode, EDNS support, and structured JSON output. | [v0.3.5](https://github.com/osmankaankars/dns-lookup-tool/releases/tag/v0.3.5) · [CI](https://github.com/osmankaankars/dns-lookup-tool/actions/workflows/ci.yml) · Tests · MIT |
+| [Authorized Exposure Assessment Case Study](https://github.com/osmankaankars/authorized-exposure-assessment-case-study) | Portfolio-safe exposure-risk correlation from DNS, port, TLS, and passive DNS evidence with reproducible baselines. | [v0.2.4](https://github.com/osmankaankars/authorized-exposure-assessment-case-study/releases/tag/v0.2.4) · [CI](https://github.com/osmankaankars/authorized-exposure-assessment-case-study/actions/workflows/smoke-test.yml) · MIT |
+| [Data Protection Case Study](https://github.com/osmankaankars/data-protection-case-study) | Privacy-centric evidence-to-control workflow spanning metadata sanitization, secret detection, and removable media governance checks. | [v0.2.4](https://github.com/osmankaankars/data-protection-case-study/releases/tag/v0.2.4) · [CI](https://github.com/osmankaankars/data-protection-case-study/actions/workflows/smoke-test.yml) · MIT |
 
 Additional security prototypes and research projects are available in my [repositories](https://github.com/osmankaankars?tab=repositories). Prototype repositories are labelled with their current status and limitations.
 
@@ -36,8 +38,8 @@ Additional security prototypes and research projects are available in my [reposi
 
 Independent portfolio studies:
 
-- [Authorized Exposure Assessment Case Study](https://github.com/osmankaankars/authorized-exposure-assessment-case-study) — Published (v0.2.3)
-- [Data Protection Case Study](https://github.com/osmankaankars/data-protection-case-study) — Published (v0.2.3)
+- [Authorized Exposure Assessment Case Study](https://github.com/osmankaankars/authorized-exposure-assessment-case-study) — Published (v0.2.4)
+- [Data Protection Case Study](https://github.com/osmankaankars/data-protection-case-study) — Published (v0.2.4)
 
 Both are lab/research projects with synthetic or explicitly licensed artifacts.
 
