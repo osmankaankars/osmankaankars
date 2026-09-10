@@ -34,10 +34,12 @@ Additional security prototypes and research projects are available in my [reposi
 
 ## Open-source roadmap
 
-- **Authorized Exposure Assessment Case Study — Planned.** A permission-first, lab-scoped case study correlating DNS, port, Nmap, and TLS evidence into a reproducible external-exposure assessment.
-- **Data Protection Case Study — Planned.** An evidence-linked data-lifecycle case study connecting metadata sanitization, secret discovery, privacy checks, and removable-media monitoring without claiming to be a complete DLP or compliance platform.
+Independent portfolio studies:
 
-These are independent portfolio research directions, not released capabilities or delivery commitments. Exposure testing will be limited to systems I own or am explicitly authorized to test; datasets will be synthetic or openly licensed.
+- [Authorized Exposure Assessment Case Study](https://github.com/osmankaankars/authorized-exposure-assessment-case-study) — Published (v0.2.0)
+- [Data Protection Case Study](https://github.com/osmankaankars/data-protection-case-study) — Published (v0.2.0)
+
+Both are lab/research projects with synthetic or explicitly licensed artifacts.
 
 ## Research and credentials
 
